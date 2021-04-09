@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 //import CheckboxWithLabel from './component/checkboxtesting/Checkboxwithlabel';
 import './index.css';
 import LoginForm from '../src/component/functionalcomponent/Login';
+//import LoginForm from './Login'
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
